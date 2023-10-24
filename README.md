@@ -5,4 +5,4 @@
 - enter the y-positon `e`
 > `Based on the formula: a(x+d)²+e`
 
-> The Matplotlib visualization is calculated
+> The matplotlib visualization is calculated
