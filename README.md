@@ -1,4 +1,4 @@
-# parabola-visualization
+# Parabola-Visualizer
 > To visualize a parabola:
 - enter the degree of curvature `a`
 - enter the x-position `d`
